@@ -11,6 +11,8 @@
 // console.log(null == 0);
 // console.log(null >=0);
 
+// this type of conversion mostly avoid the this type code
+
 // console.log(undefined >= 0);
 // console.log(undefined < 0);
 // console.log(undefined > 0);
